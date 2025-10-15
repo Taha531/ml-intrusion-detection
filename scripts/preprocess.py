@@ -6,7 +6,7 @@ import os
 
 SEED = 42
 
-def load_and_preprocess(percent10=True):
+def load_and_preprocess(percent10=False):
 
     print("Downloading KDDCup'99 dataset (this may take a minute)...")
 
