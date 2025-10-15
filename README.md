@@ -13,19 +13,6 @@ The goal is to classify network connections as either *normal* or *attack* using
 
 ---
 
-## 🗂️ Project Structure
-ml-intrusion-detection/
-├── scripts/
-│ ├── preprocess.py
-│ ├── train_models.py
-│ └── evaluate.py
-├── notebooks/
-├── results/
-├── models/
-└── README.md
-
----
-
 ## ⚙️ How to Run
 ```bash
 # Clone and setup
